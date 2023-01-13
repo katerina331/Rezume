@@ -1,5 +1,3 @@
-theme: Dinky
-remote_theme: THEME-NAME
 # Резюме Смирнова Екатерина Викторовна
 
 1. О себе 
